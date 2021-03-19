@@ -1,6 +1,6 @@
 # Changing Color App
 
-- Proposes user to enter his name
+- Offers user to enter his name
 - After pressing "Let's start!" display welcoming message and instructions:
 - Change color after single tap
 - Reset after double tap
