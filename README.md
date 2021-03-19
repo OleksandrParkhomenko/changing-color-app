@@ -1,16 +1,20 @@
-# first_project
+# Changing Color App
 
-A new Flutter project.
+- Proposes user to enter his name
+- After pressing "Let's start!" display welcoming message and instructions:
+- Change color after single tap
+- Reset after double tap
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/26480755/111799709-ef590e00-88d3-11eb-86bf-24fa527c4d0b.jpg" width="200">
+  <img src="https://user-images.githubusercontent.com/26480755/111798859-2549c280-88d3-11eb-8978-0418920f5954.jpg" width="200">
+  <img src="https://user-images.githubusercontent.com/26480755/111799590-d5b7c680-88d3-11eb-92fa-52801f8d4a11.jpg" width="200">
+  <img src="https://user-images.githubusercontent.com/26480755/111799907-1ca5bc00-88d4-11eb-95c6-88bde9884e75.jpg" width="200">
+</p> 
 
-## Getting Started
+## To run:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/OleksandrParkhomenko/changing-color-app.git
+cd changing-color-app
+flutter run
+```
